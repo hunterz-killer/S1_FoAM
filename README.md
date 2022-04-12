@@ -36,7 +36,7 @@
 2.	[Data Description Part - I](https://web.microsoftstream.com/video/843ea3e9-9faa-497f-81d3-abc3ce485006)
 3.	[Data Description Part - I](https://web.microsoftstream.com/video/1cb64a07-14ab-4cc0-9681-26ff8914132e)
 4.	[Data Description Part - I](https://web.microsoftstream.com/video/c2265171-adcb-4728-8fca-9480e0d4a2d1)
-5.	[Data Description Part - II](https://web.microsoftstream.com/video/593e5533-b5cc-4f82-b8c5-7440db65f3d8)
+5.	[Data Description Part - I](https://web.microsoftstream.com/video/593e5533-b5cc-4f82-b8c5-7440db65f3d8)
 
 ### Week 6
 1.	[Data Description Part - I](https://web.microsoftstream.com/video/b7c78d50-d6bb-4151-aa84-15719fd517d3)
