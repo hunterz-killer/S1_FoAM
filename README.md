@@ -1,13 +1,13 @@
 # Foundations of Applied Mathematics 
 
-### Week 1
+### Week 1 | Notes - [Link](https://github.com/hunterz-killer/S1_FoAM/blob/Main/Notes/FOAM_week_01.pdf)
 1. [Welcome Session](https://web.microsoftstream.com/video/bfd4d4a4-7188-497e-8028-3ce0f37ff87b)
 2. [Roadmap to Curriculum](https://web.microsoftstream.com/video/58e25758-7c4e-47a4-a1af-707428b9670d)
 3. [Syllabus Overview](https://web.microsoftstream.com/video/46f5be03-f114-4bbd-b2d3-4e56b9c8e831)
 4. [Introduction to Real-Life Applications Part-I](https://web.microsoftstream.com/video/c245453e-57de-482f-b903-11cead650acf)
 5. [Real-Life Applications Part-I](https://web.microsoftstream.com/video/ee775ed2-0ccc-4c77-8b8b-7ec080aaa40e)
 
-### Week 2
+### Week 2 | Notes - [Link](https://github.com/hunterz-killer/S1_FoAM/blob/Main/Notes/FOAM_week_02.pdf)
 1.	[Mathematical Models](https://web.microsoftstream.com/video/7735c5f0-b4ae-4b20-acfc-c1a7552f43d9)
 2.	[Mathematical Models](https://web.microsoftstream.com/video/83d0ce84-9704-446a-84de-9ef516651f6d)
 3.	[Mathematical Models](https://web.microsoftstream.com/video/00ee2f00-60c6-4c72-83ce-48c6852bf47a)
@@ -15,7 +15,7 @@
 5.	[Mathematical Models](https://web.microsoftstream.com/video/9122b252-cb18-452a-ac34-1baed85ca144)
 6.	[Mathematical Models](https://web.microsoftstream.com/video/51027ca2-f3f0-4e14-a599-df013b1bb7c5)
 
-### Week 3
+### Week 3 | Notes - [Link](https://github.com/hunterz-killer/S1_FoAM/blob/Main/Notes/FOAM_week_03.pdf)
 1.	[Learning Methodologies](https://web.microsoftstream.com/video/7761507d-769d-4fd8-8c44-5bf172327646)
 2.	[Learning Computational Tools](https://web.microsoftstream.com/video/0478fc92-6608-432f-bc75-06306c2b8d42)
 3.	[Learning Computational Tools](https://web.microsoftstream.com/video/37835bd8-d629-46bd-8138-7617eb9e3fec)
@@ -24,21 +24,21 @@
 6.	[Learning Computational Tools](https://web.microsoftstream.com/video/c2153a4b-615d-4d56-9bfb-eb6536df6bcc)
 7.	[Learning Computational Tools](https://web.microsoftstream.com/video/c3458ac5-b052-436c-854c-79cdae36af64)
 
-### Week 4
+### Week 4 | Notes - [Link](https://github.com/hunterz-killer/S1_FoAM/blob/Main/Notes/FOAM_week_04.pdf)
 1.	[Learning Computational Tools](https://web.microsoftstream.com/video/db54a279-6352-4f7a-b070-b59d99aa954c)
 3.	[Learning Computational Tools](https://web.microsoftstream.com/video/9acdf996-d813-4211-9fea-41caa78436c8)
 4.	[Learning Computational Tools](https://web.microsoftstream.com/video/1cf1ae1b-8123-4952-99be-d6b868fe35e8)
 5.	[Learning Computational Tools](https://web.microsoftstream.com/video/512cf22a-aeed-4beb-b512-7db4853cb42c)
 
 
-### Week 5
+### Week 5 | Notes - [Link](https://github.com/hunterz-killer/S1_FoAM/blob/Main/Notes/FOAM_week_05.pdf)
 1.	[Data Description Part - I](https://web.microsoftstream.com/video/277a0930-27e6-4067-a50b-332e869d72d4)
 2.	[Data Description Part - I](https://web.microsoftstream.com/video/843ea3e9-9faa-497f-81d3-abc3ce485006)
 3.	[Data Description Part - I](https://web.microsoftstream.com/video/1cb64a07-14ab-4cc0-9681-26ff8914132e)
 4.	[Data Description Part - I](https://web.microsoftstream.com/video/c2265171-adcb-4728-8fca-9480e0d4a2d1)
 5.	[Data Description Part - I](https://web.microsoftstream.com/video/593e5533-b5cc-4f82-b8c5-7440db65f3d8)
 
-### Week 6
+### Week 6 | Notes - [Link](https://github.com/hunterz-killer/S1_FoAM/blob/Main/Notes/FOAM_week_06.pdf)
 1.	[Data Description Part - I](https://web.microsoftstream.com/video/b7c78d50-d6bb-4151-aa84-15719fd517d3)
 7.	[Data Description Part - I](https://web.microsoftstream.com/video/33168041-40db-4aac-aed3-ba91ce7934d8)
 8.	[Data Description Part - I](https://web.microsoftstream.com/video/816a88c1-0752-410d-8752-4d95c9345433)
@@ -46,7 +46,7 @@
 10.	[Data Description Part - I](https://web.microsoftstream.com/video/71eeaa51-0ded-431e-b047-33364ebdf4ff)
 11.	[Data Description Part - I](https://web.microsoftstream.com/video/9d0cc436-49da-47e8-8e68-c7f59d61fb53)
 
-### Week 7
+### Week 7 | Notes - [Link](https://github.com/hunterz-killer/S1_FoAM/blob/Main/Notes/FOAM_week_07.pdf)
 1.	[Introduction to Numpy, Pandas and Matplotlib ](https://web.microsoftstream.com/video/65041c95-9acb-4c8c-87cc-d1e08726d1f1)
 2.	[Introduction to Numpy, Pandas and Matplotlib ](https://web.microsoftstream.com/video/68af68c8-daad-402e-9b80-f6c1b1a44cf4)
 3.	[Introduction to Numpy, Pandas and Matplotlib ](https://web.microsoftstream.com/video/5f5f4e36-a6d2-48d4-aa1a-077389a3f2a6)
@@ -56,7 +56,7 @@
 7.	[Introduction to Numpy, Pandas and Matplotlib ](https://web.microsoftstream.com/video/12e5c251-325f-4fab-9645-bb07e8a5ecb5)
 8.	[Introduction to Numpy, Pandas and Matplotlib ](https://web.microsoftstream.com/video/5aa81a5f-32b9-4f8b-884d-f5e7708e94cd)
 
-### Week 8
+### Week 8 | Notes For 8 & 9 - [Link](https://github.com/hunterz-killer/S1_FoAM/blob/Main/Notes/FOAM_week_0809.pdf)
 1.	[Data Description Part - II](https://web.microsoftstream.com/video/fdff1e3d-9656-4f83-acd5-407dace9aa10)
 2.	[Data Description Part - II](https://web.microsoftstream.com/video/2946f373-3bba-4aab-999d-46fc388ab4f5)
 3.	[Data Description Part - II](https://web.microsoftstream.com/video/d2828a8c-4f37-419f-8edc-0464fc21b7a8)
@@ -66,7 +66,7 @@
 2.	[Data Description Part - II](https://web.microsoftstream.com/video/b3a33574-9959-4ae6-947b-8d67adec254d)
 3.	[Data Description Part - II](https://web.microsoftstream.com/video/bc4949dc-c886-4b58-9d7d-683134d4b025)
 
-### Week 10
+### Week 10 | Notes For 10 & 11 - [Link](https://github.com/hunterz-killer/S1_FoAM/blob/Main/Notes/FOAM_week_1011.pdf)
 1. [Algebra, Linear Equations, Linear Inequalities & Trigonometry](https://web.microsoftstream.com/video/c01781d8-bc9a-43e9-84ac-a79a5c625dc7)
 2. [Algebra, Linear Equations, Linear Inequalities & Trigonometry](https://web.microsoftstream.com/video/913a0d75-aec3-4662-a06a-fcb97eb18abf)
 3. [Algebra, Linear Equations, Linear Inequalities & Trigonometry](https://web.microsoftstream.com/video/53b0d2b6-4c2e-4941-b696-86006d6351a3)
